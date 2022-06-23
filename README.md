@@ -1,4 +1,4 @@
-corpwallet
+corpwallet //depreciated// 
 ==========
 
 PHP Corporation Wallet for Eve Online
